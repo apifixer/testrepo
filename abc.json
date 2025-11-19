@@ -21,7 +21,7 @@
     "id": 2,
     "name": "Jane Smith",
     "contact": {
-      "email": "jane@example.com",
+      "email": "xyz@example.com",
       "phone": "+9876543210"
     },
     "roles": ["user"]
