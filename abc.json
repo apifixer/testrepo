@@ -2,16 +2,19 @@
   {
     "id": 1,
     "name": "John Doe",
-    "email": "john@example.com"
+    "contact": {
+      "email": "john@example.com",
+      "phone": "+1234567890"
+    },
+    "roles": ["admin", "editor"]
   },
   {
     "id": 2,
     "name": "Jane Smith",
-    "email": "jane@example.com"
-  },
-  {
-    "id": 3,
-    "name": "Bob Johnson",
-    "email": "bob@example.com"
+    "contact": {
+      "email": "jane@example.com",
+      "phone": "+9876543210"
+    },
+    "roles": ["user"]
   }
 ]
